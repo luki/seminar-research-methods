@@ -11,6 +11,11 @@ research questions in the paper's topical scope.
 # Grade
 Still to be graded.
 
+# Contents
+* [Seminar Paper](HCI_Systems_for_Representative_Democracy__Investigating_their_Universal_Usability_through_Comparative_Analysis.pdf)
+* [5 (Further) Research Question - Slides](Further Research Questions Slides.pdf)
+* [5 (Further) Research Question - Video](Further Research Questions Video_scaled.mp4)
+
 # Team members
 * Dipl.-Ing. Mirza Salkic
 * Dipl.-Ing. Nirmala Salkic
