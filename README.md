@@ -9,7 +9,7 @@ a seminar paper and a video (and its slides) on a suggestion of 5 further
 research questions in the paper's topical scope.
 
 # Grade
-Still to be graded.
+1.0 (Excellent)
 
 # Contents
 * [Seminar Paper](HCI_Systems_for_Representative_Democracy__Investigating_their_Universal_Usability_through_Comparative_Analysis.pdf)
